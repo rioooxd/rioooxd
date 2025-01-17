@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Hi! 👋 I'm Rio</h1>
-  <h3>I'm a passionate beginner .NET developer from Poland. </h3>
+  <h3>I'm a passionate beginner .NET developer from Poland. 🇵🇱 </h3>
 </div>
 
 <br>
