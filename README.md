@@ -40,7 +40,7 @@
     <li>Building web applications.</li>
     <li>Creating video games.</li>
     <li>Participating in coding competitions.</li>
-    <li>Tinkering with my Arduino and Raspberry Pi 5</li>
+    <li>Tinkering with my Arduino and Raspberry Pi 5.</li>
     <li>Cybersecurity.</li>
   </ul>
 </div>
@@ -52,6 +52,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMb1QVxS/giphy.gif" width="200"/>
-</div>
