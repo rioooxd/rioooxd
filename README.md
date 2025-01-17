@@ -26,7 +26,7 @@
     <li>ASP.NET Core Web API</li>
     <li>Problem-solving skills for competitive programming </li>
     <li>Data structures and algorithms.</li>
-    <li>Exploring more advanced embedded systems applications.</li>
+    <li>Programming embedded devices.</li>
     <li>Linux operating system.</li>
   </ul>
 </div>
